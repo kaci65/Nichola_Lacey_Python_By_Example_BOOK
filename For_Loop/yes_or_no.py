@@ -3,11 +3,12 @@
 
 
 total = 0
-for i in range(0, 5):
+for i in range(5):
     num = int(input("Enter number: "))
     ques = input("Do you want this number included? Yes or No: ")
-    if querry == "yes" or "Yes" or "YES":
+    ans = ["yes", "Yes", "YES"]
+    if ques in ans:
         total = total + num
     else:
-        pass
+        break
 print("Total:", total)
