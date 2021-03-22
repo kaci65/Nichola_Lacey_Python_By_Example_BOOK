@@ -1,7 +1,7 @@
 # **Python by Example by Nichola Lacey**
 Challenges 1 - 11: The Basics (page 19 - 22)
 
-## **Day 0**
+
 ### **first_name.py (task 001)**
 Ask for the user’s first name and display the output message >> Hello [First Name]
 
