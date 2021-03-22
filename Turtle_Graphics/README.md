@@ -1,7 +1,7 @@
 # **Python by Example by Nichola Lacey**
 Challenges 60 - 68: Turtle Graphics (page 59 - 61)
 
-## **Day 07**
+
 ### **square.py (task 060)**
 Draw a square
 
