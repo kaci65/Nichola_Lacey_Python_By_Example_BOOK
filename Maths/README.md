@@ -1,7 +1,7 @@
 # **Python by Example by Nichola Lacey**
 Challenges 27 - 34: Math (page 39 - 40)
 
-## **Day 03**
+
 ### **multiply.py (task 027)**
 Ask the user to enter a number with lots of decimal places. Multiply this number by two and display the answer
 
