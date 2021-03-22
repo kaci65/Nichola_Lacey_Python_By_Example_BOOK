@@ -1,7 +1,7 @@
 # **Python by Example by Nichola Lacey**
 Challenges 20 - 26: Strings (page 32 - 36)
 
-## **Day 02**
+
 ### **name_length.py (task 020)**
 Ask the user to enter their first name and then display the length of their name
 
