@@ -1,7 +1,7 @@
 # **Python by Example by Nichola Lacey**
 Challenges 35 - 44: For Loop (page 43 - 45)
 
-## **Day 04**
+
 ### **repeat_name.py (task 035)**
 Ask the user to enter their name and then display their name three times
 
