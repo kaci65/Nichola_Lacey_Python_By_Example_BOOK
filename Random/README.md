@@ -1,7 +1,7 @@
 # **Python by Example by Nichola Lacey**
 Challenges 52 - 59: Random (page 53 - 55)
 
-## **Day 06**
+
 ### **int_random.py (task 052)**
 Display a random integer between 1 and 100 inclusive
 
